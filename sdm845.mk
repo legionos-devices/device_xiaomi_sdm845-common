@@ -129,6 +129,8 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
     init.qcom.usb.sh \
     init.recovery.qcom.rc \
+    init.pocoparts.sh \
+    init.pocoparts.rc \
     ueventd.qcom.rc
 
 # Context Hub
